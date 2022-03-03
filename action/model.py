@@ -1,13 +1,13 @@
 import torch
 from torch import nn
 import sys
-sys.path.append("../../")
-import TCN.action.cell as cell
-from TCN.action.locked_dropout import LockedDropout
-import TCN.action.ho_rnn as ho_rnn
-import TCN.action.EleAtt_LSTM as EleAtt_LSTM
-import TCN.action.EleAtt_GRU as EleAtt_GRU
-memory_cell_type = 9
+sys.path.append("../")
+import action.cell as cell
+from action.locked_dropout import LockedDropout
+import action.ho_rnn as ho_rnn
+import action.EleAtt_LSTM as EleAtt_LSTM
+import action.EleAtt_GRU as EleAtt_GRU
+memory_cell_type = 7
 print('memory_cell_type =', memory_cell_type)
 if memory_cell_type == 1:
     import TCN.action.memory_cell as memory_cell
