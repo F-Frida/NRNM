@@ -10,6 +10,9 @@ You can installation the environment via the following:
 pip install -r requirements.txt
 ```
 
+# Training NRNM on NTU-Skeleton
+`Bash train_x.sh`
+
 # Citation
 If you find this work useful for your research, please cite:
 ```
