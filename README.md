@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 # Training NRNM on NTU-Skeleton dataset
-Run `Bash train_x.sh` to train LSTM-NRNM.
+Run `bash train_x.sh` to train LSTM-NRNM.
 
 # Citation
 If you find this work useful for your research, please cite:
