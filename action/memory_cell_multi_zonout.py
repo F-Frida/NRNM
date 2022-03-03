@@ -3,7 +3,7 @@ import torch.nn as nn
 import math
 
 from torch.nn import init
-from TCN.action.locked_dropout import LockedDropout
+from action.locked_dropout import LockedDropout
 
 memory_version = 6
 print('memory_version = ',memory_version)
