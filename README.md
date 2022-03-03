@@ -6,7 +6,7 @@ Official pytorch codes for two papers:
 
 
 If you find this work useful for your research, please cite:
-'''
+```
 @inproceedings{fu2019non,
   title={Non-local recurrent neural memory for supervised sequence modeling},
   author={Fu, Canmiao and Pei, Wenjie and Cao, Qiong and Zhang, Chaopeng and Zhao, Yong and Shen, Xiaoyong and Tai, Yu-Wing},
@@ -14,4 +14,4 @@ If you find this work useful for your research, please cite:
   pages={6311--6320},
   year={2019}
 }
-'''
+```
