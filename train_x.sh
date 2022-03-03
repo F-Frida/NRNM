@@ -6,4 +6,4 @@
 # CUDA_VISIBLE_DEVICES=0 python3 action_mylstm.py --nlayers=3 --my 0 1  --ups=5 --lr=0.001 --wd=0.001 --stride=10 --bl=20 --nhid=128 --sb=s10b20_3layer_z2_wd001_mix01_128_up5_0321
 
 # rebuttal
-CUDA_VISIBLE_DEVICES=0 python3 action_mylstm_cv.py  --nlayers=4 --data_mode=CV --lr=0.001 --cell_type=ELEATT_LSTM --nhid=512 --sb=cv_ELEATT_512_4layer_0618
+CUDA_VISIBLE_DEVICES=0 python action_mylstm_cv.py  --nlayers=4 --data_mode=CV --lr=0.001 --cell_type=ORG_MEMO --nhid=512 --sb=cv_MEMO_512_4layer_0618
