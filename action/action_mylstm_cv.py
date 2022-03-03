@@ -13,8 +13,8 @@ import os
 import argparse
 import numpy as np
 import sys
-sys.path.append("../../")
-from TCN.action.model import *
+sys.path.append("../")
+from action.model import *
 # import model.MyRNNModel as MyRNNModel
 
 parser = argparse.ArgumentParser(description='Sequence Modeling - Word-level Language Modeling')
@@ -68,7 +68,7 @@ if not (os.path.exists(dir_file)):
 # init data loder
 print("*********")
 batch_size = 256
-data_path = './data/NTU_skeleton_main_lstm'
+data_path = '../datasets/Skeleton/'
 if args.data_mode == 'CV':
     print('load CV data ...')
     train_data, train_label, test_data, test_label  = loadview_data(data_path)
