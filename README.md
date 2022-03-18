@@ -10,7 +10,7 @@ The code is being organized.
 
 # Installation
 The model is built in PyTorch 1.2.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
-You can installation the environment via the following:
+You can installa the environment via the following:
 ```
 pip install -r requirements.txt
 ```
