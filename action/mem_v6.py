@@ -3,9 +3,6 @@ from torch import nn
 import torch.nn.functional as F
 import numpy as np
 
-# this class largely follows the official sonnet implementation
-# https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py
-
 class MemoryCell(nn.Module):
     """
     Constructs a `Memory` object.
