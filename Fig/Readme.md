@@ -1,0 +1,1 @@
+NRNM in sequential network.
