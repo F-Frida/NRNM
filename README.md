@@ -5,7 +5,7 @@ Official pytorch codes for the paper:
  
 ![](Fig/network.png)
 
-![](Fig/strcuture.png =100x100)
+![](Fig/strcuture.png){:height="50%" width="50%"}
 
 # Installation
 The model is built in PyTorch 1.2.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
