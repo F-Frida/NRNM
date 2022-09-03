@@ -5,10 +5,8 @@ Official pytorch codes for the paper:
  
 ![](Fig/network.png)
 
-![](Fig/strcuture.png){height="50%" width="50%"}
-
 <div  align="center">    
-<img src="Fig/strcuture.png" alt="Cover" width="50%"/>
+<img src="Fig/strcuture.png" alt="Cover" width="50%" align=center/>
 <\div>
  
 # Installation
