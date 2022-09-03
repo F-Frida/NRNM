@@ -1,5 +1,5 @@
 # NRNM: Non-local-Recurrent-Neural-Memory
-Official pytorch codes for two papers:
+Official pytorch codes for the paper:
 
  - [Learning Sequence Representations by Non-local Recurrent Neural Memory (IJCV 2022)](https://link.springer.com/article/10.1007/s11263-022-01648-y) 
  
