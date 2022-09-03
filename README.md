@@ -17,6 +17,8 @@ pip install -r requirements.txt
 
 # Example
 ![](Fig/action.png)
+
+
 Training NRNM on NTU-Skeleton dataset
 Download the NTU skeleton dataset from [link](https://rose1.ntu.edu.sg/dataset/actionRecognition/), and put it into `./datasets/Skeleton/`.
 
