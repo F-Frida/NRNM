@@ -22,6 +22,7 @@ Download the NTU skeleton dataset from [link](https://rose1.ntu.edu.sg/dataset/a
 
 Run `CUDA_VISIBLE_DEVICES=0 python action_mylstm_cv.py  --nlayers=2 --data_mode=CV --lr=0.001 --cell_type=ORG_MEMO --nhid=512 --sb=cv_MEMO_512_2layer` to train and test LSTM-NRNM for skeleton-based action recognition.
 
+# Results
 <div  align="center"> <img src="Fig/results.png" alt="Cover" width="50%" align=center/> </div>
 
 # Citation
