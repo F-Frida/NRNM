@@ -5,8 +5,7 @@ Official pytorch codes for the paper:
  
 ![](Fig/network.png)
 
-<div  align="center">    
-<img src="Fig/strcuture.png" alt="Cover" width="50%" align=center/>
+<div  align="center"> <img src="Fig/strcuture.png" alt="Cover" width="50%" align=center/> </div>
 
  
 # Installation
