@@ -7,6 +7,8 @@ Official pytorch codes for the paper:
 
 ![](Fig/strcuture.png){height="50%" width="50%"}
 
+<img src="Fig/strcuture.png" alt="Cover" width="50%"/>
+ 
 # Installation
 The model is built in PyTorch 1.2.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
 You can installa the environment via the following:
